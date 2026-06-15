@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Senior QA Automation Engineer | SDET | Python | Backend & API
+### Senior QA Automation Engineer | SDET | Python | Backend & API | Performance Testing
 
 Senior SDET with 5+ years building Python-based test automation for backend APIs, microservices, and Kafka-driven systems. Built Pytest-based testing frameworks and CI/CD infrastructure from scratch, scaling automated coverage to 400+ test cases and supporting major feature launches in a high-scale fintech environment. Recent experience includes designing and executing distributed load tests at 1,000+ RPS and driving performance improvements through bottleneck analysis, including an AI-assisted investigation that achieved ~2x latency reduction on a Rust service.
 
